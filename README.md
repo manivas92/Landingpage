@@ -1,2 +1,2 @@
 # Landingpage
-https://manivas92.github.io/portfolio/
+https://manivas92.github.io/Landingpage/
